@@ -1,7 +1,3 @@
-<img src="./Gemini_Generated_Image_s6578ls6578ls657.jpg" width="100%">
-<p align="center">
-  <img src="./Imagem Profissional.jpeg" width="150" style="border-radius: 50%;">
-</p>
 # ✨ Olá, eu sou a Luíza!
 
 🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
