@@ -1,3 +1,4 @@
+<p align="center"> <img src="./Gemini_Generated_Image_s6578ls6578ls657" width="100%"> </p>
 <p align="center">
   <img src="./Imagem Profissional.jpeg" width="150" style="border-radius: 50%;">
 </p>
