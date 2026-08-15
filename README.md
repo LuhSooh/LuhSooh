@@ -10,30 +10,41 @@
 </div>
 
 ---
-
 ### 🌸 Sobre Mim
 
-- 🎓 Cursando **[Seu Curso]** na **[Sua Faculdade]**
+- 🎓 Cursando **Análise e Desenvolvimento de Sistemas** na **Uniasselvi**
 - 🎯 Foco de carreira: **Engenharia de Dados, ETL e Business Intelligence**
 - 🛠️ Atualmente estudando **Python, SQL e Modelagem de Dados**
-- 💬 Me pergunte sobre **Python, consultas SQL e análise de dados**
-- 📫 Como me encontrar: **[seu.email@email.com]**
-
 ---
 
 ### 🛠️ Linguagens & Tecnologias de Dados
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python" height="40" style="margin: 0 4px;" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" style="margin: 0 4px;" />
-  <img src="https://skillicons.dev/icons?i=powerbi" height="40" style="margin: 0 4px;" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" style="margin: 0 4px;" />
-  <img src="https://skillicons.dev/icons?i=pandas" height="40" style="margin: 0 4px;" />
-  <img src="https://skillicons.dev/icons?i=autocad" height="40" style="margin: 0 4px;" />
-  <img src="https://skillicons.dev/icons?i=git" height="40" style="margin: 0 4px;" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" style="margin: 0 4px;" />
+  <span style="display: inline-block; margin: 0 4px; vertical-align: middle;">
+    <img src="https://cdn.simpleicons.org/python" width="24" height="24" style="vertical-align: middle;" /> <sub><b>Python</b></sub>
+  </span>
+  <span style="display: inline-block; margin: 0 4px; vertical-align: middle;">
+    <img src="https://cdn.simpleicons.org/postgresql" width="24" height="24" style="vertical-align: middle;" /> <sub><b>PostgreSQL</b></sub>
+  </span>
+  <span style="display: inline-block; margin: 0 4px; vertical-align: middle;">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" width="24" height="24" style="vertical-align: middle;" /> <sub><b>Power BI</b></sub>
+  </span>
+  <span style="display: inline-block; margin: 0 4px; vertical-align: middle;">
+    <img src="https://cdn.simpleicons.org/mysql" width="24" height="24" style="vertical-align: middle;" /> <sub><b>MySQL</b></sub>
+  </span>
+  <span style="display: inline-block; margin: 0 4px; vertical-align: middle;">
+    <img src="https://cdn.simpleicons.org/pandas" width="24" height="24" style="vertical-align: middle;" /> <sub><b>Pandas</b></sub>
+  </span>
+  <span style="display: inline-block; margin: 0 4px; vertical-align: middle;">
+    <img src="https://cdn.simpleicons.org/autodesk" width="24" height="24" style="vertical-align: middle;" /> <sub><b>AutoCAD</b></sub>
+  </span>
+  <span style="display: inline-block; margin: 0 4px; vertical-align: middle;">
+    <img src="https://cdn.simpleicons.org/git" width="24" height="24" style="vertical-align: middle;" /> <sub><b>Git</b></sub>
+  </span>
+  <span style="display: inline-block; margin: 0 4px; vertical-align: middle;">
+    <img src="https://cdn.simpleicons.org/github/white" width="24" height="24" style="vertical-align: middle;" /> <sub><b>GitHub</b></sub>
+  </span>
 </p>
----
 
 
 
