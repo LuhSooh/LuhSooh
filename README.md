@@ -1,67 +1,80 @@
-# 👋 Olá! Eu sou a Luíza Trindade
+# ✨ Olá, eu sou a Luíza!
 
-🎓 Estudante de **Análise e Desenvolvimento de Sistemas**
-💻 Construindo minha jornada profissional na **Tecnologia**
-📊 Interessada em **Dados, Desenvolvimento e Cloud**
-🚀 Em formação para me tornar uma **Data Engineer**
-
----
-
-## 🛠️ Tecnologias e ferramentas
-
-💻 **Desenvolvimento**
-
-* Python
-* HTML
-* CSS
-* JavaScript
-
-📊 **Dados**
-
-* SQL
-* Excel
-* Power BI
-
-☁️ **Cloud & IA**
-
-* AWS
-* Amazon Bedrock
-* Lambda
-
-🧰 **Ferramentas**
-
-* Git & GitHub
-* VS Code
+🎓 **Estudante de Análise e Desenvolvimento de Sistemas**
+💻 **TI & Dados** | 📊 **Data** | ☁️ **Cloud**
+🚀 Em construção da minha carreira como **Data Engineer**
 
 ---
 
-## 🚀 Projetos
+## 🌷 Sobre mim
 
-📌 **TechDesk**
-Sistema web de suporte de TI desenvolvido como projeto de portfólio.
+Sou estudante de **Análise e Desenvolvimento de Sistemas** e estou construindo minha trajetória profissional na área de Tecnologia.
 
-📊 **Projetos de Dados**
-Estudos e projetos envolvendo SQL, Excel, Power BI e análise de dados.
+Tenho interesse em **Dados, Engenharia de Dados, Cloud Computing e Inteligência Artificial** e gosto de transformar o que aprendo em projetos práticos.
 
-☁️ **Projetos AWS**
-Experimentos com AWS, Lambda e Inteligência Artificial.
+Atualmente, estou desenvolvendo minhas habilidades através de estudos, projetos pessoais e desafios práticos.
 
 ---
 
-## 📚 Atualmente estudando
+## 🛠️ Tecnologias & Ferramentas
 
-* Análise e Desenvolvimento de Sistemas
-* SQL
-* Python
-* Power BI
-* Engenharia de Dados
-* Cloud Computing
-* Inteligência Artificial
+### 💻 Desenvolvimento
+
+`Python` `HTML` `CSS` `JavaScript`
+
+### 📊 Dados
+
+`SQL` `Excel` `Power BI`
+
+### ☁️ Cloud & IA
+
+`AWS` `Amazon Bedrock` `AWS Lambda`
+
+### 🔧 Ferramentas
+
+`Git` `GitHub` `VS Code`
+
+---
+
+## 🚀 Projetos em destaque
+
+### 📚 Caderno de Estudos — Engenharia de Dados
+
+Meu espaço de estudos sobre fundamentos da Engenharia de Dados, utilizando Inteligência Artificial como ferramenta de aprendizagem.
+
+### ☁️ Assistente IA Serverless
+
+Projeto utilizando serviços da AWS para explorar uma arquitetura Serverless integrada com Inteligência Artificial.
+
+### 📊 Análise de Feedback Bancário
+
+Projeto de estudo voltado à análise de feedbacks de clientes e identificação de informações relevantes para apoiar decisões.
+
+---
+
+## 📖 Atualmente estudando
+
+* 🗄️ SQL
+* 🐍 Python
+* 📊 Power BI
+* ☁️ AWS
+* 🔄 Engenharia de Dados
+* 🤖 Inteligência Artificial
+* 🧩 Desenvolvimento de sistemas
 
 ---
 
 ## 🎯 Meu objetivo
 
-Construir uma carreira em **Tecnologia**, desenvolvendo soluções, trabalhando com dados e evoluindo continuamente minhas habilidades.
+Construir uma carreira sólida em **Tecnologia e Dados**, desenvolvendo projetos reais, aprendendo continuamente e transformando conhecimento em soluções.
 
-> 💡 *Aprendendo hoje para construir o meu futuro na tecnologia.*
+---
+
+### 🌸 Vamos evoluir juntos?
+
+**Aprendendo • Construindo • Evoluindo**
+
+📍 Minas Gerais, Brasil
+
+💼 [LinkedIn](https://www.linkedin.com/in/lu%C3%ADza-trindade-6b698b415)
+
